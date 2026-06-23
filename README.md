@@ -1,4 +1,4 @@
-# Ambulance Positioning System (ML-Based)
+# Optimal Ambulance Positioning for Road Accidents with Deep Emdedded Clustering (ML-Based)
 
 ## Overview
 This project predicts optimal ambulance deployment locations using Machine Learning techniques. The objective is to reduce emergency response time and improve healthcare services in accident-prone areas.
